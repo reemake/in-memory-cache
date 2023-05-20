@@ -1,6 +1,9 @@
 import java.util.Objects;
 
-// TODO: 19.05.2023 javadocs 
+/**
+ * Класс, представляющий структуру записи
+ * @author Nikita Safonov
+ */
 public class Record {
     private Long account;
     private String name;
